@@ -7,7 +7,7 @@ import { Container} from "react-bootstrap"
 const Games = () => {
     return(
       <div id="games" className="games-news">
-      <h1 className='game-head'>List of banned video Games</h1>
+      <h1 className='game-head'>Upcoming Games</h1>
       
            <div className="game-1">
                <h2 className='game-name'>Elden Ring</h2>
